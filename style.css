@@ -25,3 +25,8 @@ a{
 a:hover{
     color: #000;
 }
+
+#first-section{
+    height: 100vh;
+    background-color: red;
+}
