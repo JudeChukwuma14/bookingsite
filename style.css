@@ -25,3 +25,10 @@ a{
 a:hover{
     color: #000;
 }
+
+
+/*hero section*/
+#hero{
+    height: 100vh;
+    background-color: blue;
+}
